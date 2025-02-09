@@ -43,7 +43,8 @@
 
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5. 
 
-*Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
+![image](https://github.com/user-attachments/assets/e01cf9d6-63f6-4f6d-b501-bc9b1b6202a3)
+
 
 ---
 
@@ -51,5 +52,12 @@
 
 Запишите в Redis несколько ключей с любыми именами и значениями. 
 
-*Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
+Уставновка и проверка:
+1. sudo apt install -y redis
+2. sudo systemctl status redis
+
+![image](https://github.com/user-attachments/assets/f0975996-9e7c-410e-980e-271744db7605)
+![image](https://github.com/user-attachments/assets/0f7687b4-8b5c-4b68-8e6e-fe9a4642b1b0)
+![image](https://github.com/user-attachments/assets/61b78a3a-be69-4f28-b7de-c01588ff88bc)
+
 
