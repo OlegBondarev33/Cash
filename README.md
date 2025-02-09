@@ -32,7 +32,10 @@
 
 Установите и запустите memcached.
 
-*Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
+Команда: sudo apt update && sudo apt install memcached
+
+![image](https://github.com/user-attachments/assets/eb3a2593-d8d3-477e-aca4-922b7988c0fa)
+![image](https://github.com/user-attachments/assets/13a37599-9c93-48de-84d6-2d7fffac52a8)
 
 ---
 
